@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    padding: 16px;
+}
+
+.container>div>h2 {
+    text-align: center;
+}
+
+.intro {
+    margin: -16px;
+    padding: 15px;
+    background-color: aqua;
+    color: darkblue;
+    text-align: center;
+}
+
+#profile {
+    width: 300px;
+    height: 350px;
+    border-radius: 25px;
+    border: solid darkmagenta;
+}
+
+.social img {
+    text-decoration: none;
+    margin: 15px;
+    width: 30px;
+    height: 30px;
+}
+
+table,tr,th,td{
+    border: 1px solid violet;
+    border-collapse: collapse;
+}
+
+td,th{
+    text-align: center;
+    padding: 8px;
+}
+
+p{
+    font-size: 1.5rem;
+}
+
+li{
+    line-height: 30px;
+    font-size: 1.1rem;
+    color: blue;
+}
+
+table th{
+    font-family: 'Courier New', Courier, monospace;
+}
